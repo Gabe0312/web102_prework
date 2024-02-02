@@ -3,6 +3,14 @@
 body {
     font-family: 'Cabin';
     background-color: #758190;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url("assets/seamonsterBackground.gif");
+    background-size: cover;
+    color:azure
+    
+
 }
 
 #tentacles {
@@ -17,19 +25,32 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    font-size: 30px;
+   
+    
+}
+.description-container{
+    font-size: 70px;
 }
 
 .stats-container {
     display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 0 30px white;
+    
 }
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: #0f1113;
+  
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
     width: 100%;
     text-align: center;
+    color:aqua
+   
 }
 
 #num-contributions, #total-raised, #num-games {
@@ -55,6 +76,7 @@ body {
     width: 300px;
     text-align: center;
     border-radius: 7px;
+    
 }
 
 .game-card:hover {
@@ -64,7 +86,9 @@ body {
 
 #button-container {
     text-align: center;
+    color: aqua;
 }
+
 
 button {
     font-family: 'Cabin';

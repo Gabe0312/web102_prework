@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Publishing
 
-Submitted by: **Your Name Here**
+Submitted by: Gabriel Rodriguez
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Publishing is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 14 hours spent in total
 
 ## Required Features
 
@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [ ] I added a looping GIF for the entire background of the screen.     
 
 ## Video Walkthrough
 
@@ -35,10 +36,13 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+Some of the challenges were the logic implementations for functions finding out which games had to come first. 
+I was new to certain functions such as the reduce and opertaions to know which were the top two games.
+Creating the animated background with a GIF was special to me since I thought it was unique to implement it. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Gabriel Rodriguez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
